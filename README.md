@@ -1,6 +1,6 @@
-# Stan Backend Tech Lead Challenge
+# Availability service
 
-This is a standalone Go service for the streaming availability challenge.
+This is a standalone streaming availability Go service.
 
 ## Run locally
 
